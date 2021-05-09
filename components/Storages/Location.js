@@ -6,7 +6,7 @@ function Location() {
 		<LocationStyles>
 			<div className="photo">
 				<img
-					src="https://res.cloudinary.com/junworks/image/upload/v1614618238/DIY%20Garage/omaha_qmd9dd.png"
+					src="https://res.cloudinary.com/junworks/image/upload/v1620444710/DIY%20Garage/Untitled_t0cqpv.jpg"
 					alt="omaha"
 				/>
 			</div>
