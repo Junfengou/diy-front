@@ -11,7 +11,10 @@ module.exports = {
 				source: "https://api.storageback.space/api/graphql",
 				headers: [
 					{ key: "Access-Control-Allow-Credentials", value: "true" },
-					{ key: "Access-Control-Allow-Origin", value: "*" },
+					{
+						key: "Access-Control-Allow-Origin",
+						value: "https://api.storageback.space/api/graphql",
+					},
 					{
 						key: "Access-Control-Allow-Methods",
 						value: "GET,OPTIONS,PATCH,DELETE,POST,PUT",
